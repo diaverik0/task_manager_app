@@ -1,3 +1,5 @@
+// simple comment on this one line
+
 import { createStore } from 'redux';
 import { taskReducer } from './features/taskList';
 
